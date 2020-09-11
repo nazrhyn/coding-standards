@@ -1,5 +1,3 @@
-![TeraLogics, LLC, a Cubic Company](https://cdn.rawgit.com/TeraLogics/coding-standards/master/images/logo.png)
-
 # Coding Standards and Practices
 
 Contained herein are TeraLogics' JavaScript coding standards and practices. 
